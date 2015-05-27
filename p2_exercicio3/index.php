@@ -23,8 +23,6 @@ $alunos = array(
     19 => array("Matricula"=>  20 ,"Nome"=>"Alberto", "Altura"=>2.00),
 );
 
-$limite = count($alunos);
-
 //Função de comparação
 function cmp($a , $b){
     return $a["Altura"] < $b["Altura"];
