@@ -23,7 +23,6 @@ $alunos = array(
     19 => array("Nome"=>"Alberto", "Nota"=>9),
 );
 
-$limite = count($alunos);
 ?>
 
 
